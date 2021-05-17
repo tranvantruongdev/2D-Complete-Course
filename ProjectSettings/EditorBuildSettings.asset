@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Block_Breaker/Scene/Start.unity
+    guid: 6c7cf4b978f7aed4c994062656ec301e
+  - enabled: 1
+    path: Assets/Block_Breaker/Scene/MainGame.unity
+    guid: 62c6698cf7104b04eba044e92c16c658
+  - enabled: 1
+    path: Assets/Block_Breaker/Scene/GameOver.unity
+    guid: 9e240a94e5ba2994a82b72f63b95d78c
+  m_configObjects: {}
